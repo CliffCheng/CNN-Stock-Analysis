@@ -39,7 +39,7 @@ This is the longest step the process since 500 companies / 1 minute = 8 hour and
 
 4) Save the images and categorize them based on whether the next month's data is a gain or a loss. 
 
-5) Train the CNN based off of the images. I will be turn to Google Colab to finish off this part due to needing a much stronger GPU.
+5) Train the CNN based off of the images. I will utilize Google Colab's stronger GPU to finish this part.
 
 
 By training the CNN on these n indicators I hope to have the CNN weigh in all n features of the dataset instead of simply looking at the price. Choosing which indicators to look at is highly important so I would want a feedback mechanism to see which charts influnce the price the most and weigh them accordingly.
