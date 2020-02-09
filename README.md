@@ -16,8 +16,10 @@ https://www.investopedia.com/articles/active-trading/042114/overbought-or-overso
 3) AROON Indicator: An indicator designed to determine the trend directon and strength. It has two indicators (AROON up and AROON down) with both numbers ranging from 0 - 100. To combine into one number to use I took the AROON up minus the ARRON down to create an oscillator between -100 and 100. 
 https://www.investopedia.com/articles/trading/06/aroon.asp
 
-4) Chaikin A/D line: A volume based indicator designed to measure the cumulative inflow and outflow of money in a security. 0 indicators an inert market, a postive number indicates upward momentum, and a negative number indicates a downward momentum. 
-https://www.investopedia.com/articles/active-trading/031914/understanding-chaikin-oscillator.asp
+4) Money Flow Index (MFI): An indicator that uses both price and volume data to identify overbought or oversold conditions. The MFI has a range between 0 - 100 where a value closer to 0 indicates oversold conditions and a value closer to 100 indicates overbought conditions. https://www.investopedia.com/articles/technical/03/072303.asp
+
+5) Directional Movement Index (DX): A moving average of the range expansion of a stock price over a period (14 days). When the DMI is positive it indicates a strong price movement in the positive direction and when it is negative it indicates a strong price movement in the negative direction. The metric is the subtraction of both. https://www.investopedia.com/articles/technical/02/050602.asp
+
 
 These indicators will be quilted together to form one picture of 4 quadrants with each quadrant containing the Daily Adjusted Close, RSI, AROON Indicator, and the Chaikin A/D line for the CNN to run on. Each picture would take the daily values of price and indicators to form a single image representing a full month's worth of data.
 
