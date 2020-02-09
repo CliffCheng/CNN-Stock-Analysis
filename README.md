@@ -1,5 +1,8 @@
 # CNN-Stock-Analysis
 
+Link to Medium Article:
+https://medium.com/@cliffpcheng/predicting-stock-movements-with-convolutional-neural-networks-a85e64af5310
+
 Convolutional Neural Networks are most commonly used to recognize animals and animal breeds from pictures.
 
 The purpose of this project is to build and train a Convolutional Neural Network by using synthetically generated pictures of stock charts. 
